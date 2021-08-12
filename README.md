@@ -4,5 +4,5 @@ esquematico de uma fonte de alimentação simples com três tensões de saída (
 
 | Fonte3T | 
 | :-------: |
-| ! [Esquemático](https://github.com/MillenaFerreira/fonte3T/blob/main/fonte3T.PNG)
+| ![Esquemático](https://github.com/MillenaFerreira/fonte3T/blob/main/fonte3T.PNG) |               
 | Fonte: MIVI |
