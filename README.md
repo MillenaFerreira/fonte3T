@@ -9,6 +9,7 @@ esquematico de uma fonte de alimentação simples com três tensões de saída (
 
 | Layout | 
 | :-------: |
-| ![Esquemático](https://github.com/MillenaFerreira/fonte3T/blob/main/layout.PNG) |               
+| ![Esquemático](https://github.com/MillenaFerreira/fonte3T/blob/main/layout.PNG) 
+) |               
 | Fonte: MIVI |
 
