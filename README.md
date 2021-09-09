@@ -13,7 +13,6 @@ esquematico de uma fonte de alimentação simples com três tensões de saída (
 | Fonte: MIVI |
 
 | 3D | 
-
-| : -------: |
+| :-------: |
 | ![Esquemático](https://github.com/MillenaFerreira/fonte3T/blob/main/3D.PNG)       
 | Fonte: MIVI |
